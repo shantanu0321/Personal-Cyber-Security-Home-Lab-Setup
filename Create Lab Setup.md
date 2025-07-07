@@ -1,0 +1,60 @@
+# Lab Setup Guide
+
+## 1. Oracle VirtualBox Installation
+- Download and install Oracle VirtualBox: https://www.virtualbox.org/wiki/Downloads
+
+
+https://github.com/user-attachments/assets/2d68eded-7cfa-4344-ba57-57146b35ca28
+
+The installation process is as simple as other applications. 
+
+
+## 2. Kali Linux VM Setup
+- Download Kali Linux : https://www.kali.org/get-kali/
+
+Search kali linux on any web browser and click on the 1st link.
+
+![kali 11](https://github.com/user-attachments/assets/4665c0bf-d39d-41b1-ad3e-d396ce0d90d9)
+
+
+Now click on the Download.
+
+![kali 12](https://github.com/user-attachments/assets/c23d58bc-fef2-4c11-b2e4-1ad8a3b75af9)
+
+
+Choose the Virtual machine version.
+ 
+![kali 13](https://github.com/user-attachments/assets/eec4a3f9-7e48-4219-a376-f7d6252c2f17)
+
+Click on the Virtual box.
+  
+![kali 14](https://github.com/user-attachments/assets/11c69ed9-29c5-48fa-91fd-cd82a0f19117)
+
+
+After clicking on the recommended Virtual Box the download will automatically start.
+
+
+- Create a new VM in VirtualBox.
+
+
+
+
+
+- Install Kali Linux following the installer prompts.
+
+## 3. Vulnerable Target Setup
+- Download a vulnerable VM image (e.g., Metasploitable, DVWA, or Juice Shop).
+- Import or install as a separate VM.
+- Set both VMs to “Host Only” or “Internal Network” for safety.
+
+## 4. Networking
+- Ensure both VMs are on the same virtual network.
+- Test connectivity (e.g., ping from Kali VM to target VM).
+
+## 5. Tool Installation
+- Update Kali: `sudo apt update && sudo apt upgrade`
+- Verify tools: Nmap, Nikto, Burp Suite, Metasploit Framework, etc.
+- For defense: install Snort/Suricata/OSSEC as needed.
+
+## 6. Snapshots
+- Take VM snapshots at key stages for easy rollback.
