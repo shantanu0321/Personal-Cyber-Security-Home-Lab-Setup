@@ -34,13 +34,38 @@ Click on the Virtual box.
 After clicking on the recommended Virtual Box the download will automatically start.
 
 
-- Create a new VM in VirtualBox.
+- To create a new VM in VirtualBox.
+
+Extract the kali linux downloaded file to your specific location.
+
+![extract](https://github.com/user-attachments/assets/20aa16ad-f6b2-4b98-aea7-18f159e04913)
 
 
+To install the Kali Linux open the VM and click on add
+ 
+![vm1](https://github.com/user-attachments/assets/facf6250-acfb-4c71-ae41-ee02a5857b93)
 
 
+Now open the folder where you have extract the Kali Linux file.
 
-- Install Kali Linux following the installer prompts.
+![new1](https://github.com/user-attachments/assets/5c3bd7fd-b2f1-41c8-bdae-8649f3c1851b)
+
+
+Congratulations your Kali Machine is installed on your Virtual Box. 
+
+![select ](https://github.com/user-attachments/assets/93f9fa2c-f91d-43aa-85c5-836b8d972d5d)
+
+
+Now select the machine you have installed and click on start.
+
+![select ](https://github.com/user-attachments/assets/2a52f0e3-39aa-46af-baa7-bf20a6827a42)
+
+Kali Linux by default login is "kali" & default password is also "kali".
+
+
+https://github.com/user-attachments/assets/f4d37fdc-8f99-4041-9f9b-d4a03768560b
+
+Now you can use your machine.
 
 ## 3. Vulnerable Target Setup
 - Download a vulnerable VM image (e.g., Metasploitable, DVWA, or Juice Shop).
@@ -56,5 +81,3 @@ After clicking on the recommended Virtual Box the download will automatically st
 - Verify tools: Nmap, Nikto, Burp Suite, Metasploit Framework, etc.
 - For defense: install Snort/Suricata/OSSEC as needed.
 
-## 6. Snapshots
-- Take VM snapshots at key stages for easy rollback.
