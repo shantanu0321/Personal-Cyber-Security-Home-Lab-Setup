@@ -1,4 +1,4 @@
-# Tool Installation
+# Tools Installed
 
 - To Update Kali Linux Tools You have to be on a your "NAT" network.
   
