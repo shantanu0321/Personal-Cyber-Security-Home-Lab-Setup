@@ -43,7 +43,7 @@ Gain **hands-on experience** with penetration testing frameworks, network monito
 
 • OpenVAS
 
-• Custom vulnerable VMs ( OWASP Juice Shop, DVWA )
+• OWASP Juice Shop
 
 ---
 
