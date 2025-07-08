@@ -15,7 +15,8 @@
 
 - Change the network from "NAT" to " Host Only Adapter ".
 
- ![image](https://github.com/user-attachments/assets/318e6a92-c966-4f49-b78c-e2f4b41e2b0a)
+
+![image](https://github.com/user-attachments/assets/1d5ae852-ffec-4ecf-b721-272650a9b1cb)
 
  
 
