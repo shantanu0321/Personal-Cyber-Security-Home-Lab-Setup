@@ -10,7 +10,6 @@ Build a **safe, controlled environment** to practice security tools and techniqu
 
 Gain **hands-on experience** with penetration testing frameworks, network monitoring, and incident response.
 
-Prepare for certifications like **CompTIA Security+, CEH, ISC2** through practical exercises.
 
 ---
 
