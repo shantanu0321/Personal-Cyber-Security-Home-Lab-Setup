@@ -17,7 +17,7 @@ Gain **hands-on experience** with penetration testing frameworks, network monito
 
 ### Hardware/Virtualization:
 
-• Laptop/Desktop with minimum 4GB RAM and 100GB free disk space.
+• Laptop/Desktop with minimum 4GB RAM and 50GB free disk space.
 
 • Virtualization: VirtualBox 
 
