@@ -37,7 +37,11 @@ Gain **hands-on experience** with penetration testing frameworks, network monito
 
 ### 🛠️ Tools Installed
 
-• Nmap, Metasploit Framework, Wireshark 
+• Nmap
+
+• Metasploit Framework
+
+• Wireshark 
 
 • Burp Suite Community
 
