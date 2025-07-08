@@ -14,5 +14,25 @@ https://github.com/user-attachments/assets/85b40f13-d1fb-40e6-bd40-792d9ca08b1d
 
 ---
   
-# Verify tools: Nmap, Nikto, Burp Suite, Metasploit Framework, etc.
+# Verify tools
+
+- Nmap: Network exploration tool and security / port scanner. Nmap (“Network Mapper”) is an open source tool for network exploration and security auditing.
+  
+  > SYNOPSIS
+
+       nmap  [Scan Type...]  [Options]   {target specification}
+  
+        # nmap -A -T4 192.168.XX.X
+  
+
+  - To get all the Scan types of Nmap, run the command `man nmap` or `nmap --help` in the terminal.
+
+   ![image](https://github.com/user-attachments/assets/b7801e8b-a43a-41f7-a3d8-a8420a7a510d)
+
+   
+
+- 
+- Nikto
+- Burp Suite
+- Metasploit Framework
 - For defense: install Snort/Suricata/OSSEC as needed.
