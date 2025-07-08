@@ -1,6 +1,6 @@
 # Lab Setup Guide
 
-# 1. Oracle VirtualBox Installation
+## 1. Oracle VirtualBox Installation
 - Download and install Oracle VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
 
@@ -8,6 +8,7 @@ https://github.com/user-attachments/assets/2d68eded-7cfa-4344-ba57-57146b35ca28
 
 - The installation process is easy and similar to installing any other applications. 
 
+---
 
 ## 2. Kali Linux VM Setup
 
@@ -35,6 +36,7 @@ https://github.com/user-attachments/assets/2d68eded-7cfa-4344-ba57-57146b35ca28
 
 - The download should start automatically.
 
+---
 
 ## 3. Set up Kali linux in VirtualBox
 
@@ -68,12 +70,12 @@ https://github.com/user-attachments/assets/2d68eded-7cfa-4344-ba57-57146b35ca28
 4. Login:
    - Default username: `kali`
    - Default password: `kali`
-
+     
 https://github.com/user-attachments/assets/f4d37fdc-8f99-4041-9f9b-d4a03768560b
 
 #4 You're Ready!
 
  Now you can use your Kali Linux Machine.
 
-
+---
 
