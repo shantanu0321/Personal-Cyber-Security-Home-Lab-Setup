@@ -105,13 +105,3 @@ https://github.com/user-attachments/assets/5b392e14-f408-42a0-80e5-107cdcf93fd8
 ![image](https://github.com/user-attachments/assets/51c454c9-9982-4760-b83f-bf313eaa5fe4)
   
 
-- Set both VMs to “Host Only” or “Internal Network” for safety.
-
-## 4. Networking
-- Ensure both VMs are on the same virtual network.
-- Test connectivity (e.g., ping from Kali VM to target VM).
-
-## 5. Tool Installation
-- Update Kali: `sudo apt update && sudo apt upgrade`
-- Verify tools: Nmap, Nikto, Burp Suite, Metasploit Framework, etc.
-- For defense: install Snort/Suricata/OSSEC as needed.
