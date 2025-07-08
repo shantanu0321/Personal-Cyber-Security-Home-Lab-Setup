@@ -6,30 +6,29 @@
 
 https://github.com/user-attachments/assets/2d68eded-7cfa-4344-ba57-57146b35ca28
 
-> The installation process is as simple as other applications. 
+> The installation process is easy and similar to installing any other applications. 
 
 
 ## 2. Kali Linux VM Setup
 
 - Download Kali Linux : https://www.kali.org/get-kali/
   
-
-> Search kali linux on any web browser and click on the 1st link.
+- Search kali linux on any web browser and click on the 1st link.
 
 ![kali 11](https://github.com/user-attachments/assets/4665c0bf-d39d-41b1-ad3e-d396ce0d90d9)
 
 
-> Now click on the Download.
+- Now click on the Download.
 
 ![kali 12](https://github.com/user-attachments/assets/c23d58bc-fef2-4c11-b2e4-1ad8a3b75af9)
 
 
-> Choose the Virtual machine version.
+- Select the Virtual machine version.
 
 ![kali 13](https://github.com/user-attachments/assets/eec4a3f9-7e48-4219-a376-f7d6252c2f17)
 
 
-> Click on the Virtual box.
+- Click on the Virtual Box option to download the VM image.
 
 ![kali 14](https://github.com/user-attachments/assets/11c69ed9-29c5-48fa-91fd-cd82a0f19117)
 
