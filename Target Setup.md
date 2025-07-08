@@ -5,7 +5,6 @@
 https://github.com/user-attachments/assets/5b392e14-f408-42a0-80e5-107cdcf93fd8
 
 
-- Import or install as a separate VM.
 
 
  - Downloaded file will be in ZIP form.
@@ -31,7 +30,7 @@ https://github.com/user-attachments/assets/5b392e14-f408-42a0-80e5-107cdcf93fd8
 
 
 
-- Write the name of machine and change the **Type** to " Linux " and **Subtype** to " Other Linux " and **Version** to " Other Linux(64-bits) " as shown in the photo and click on " Next ".
+- Write the name of machine and change the **Type** to " Linux " and **Subtype** to " Other Linux " and **Version** to " Other Linux(bits according to you system) " as shown in the photo and click on " Next ".
   
 
 ![image](https://github.com/user-attachments/assets/a494b0ee-5cc4-4240-b953-093d7032dffd)
@@ -95,7 +94,7 @@ https://github.com/user-attachments/assets/5b392e14-f408-42a0-80e5-107cdcf93fd8
 
 
 
-- It will configure some settings and after 2-3 min  you machine is ready for use.
+- It will configure some settings and after 2-3 min  your machine is ready for use.
 
  5. Login:
    
