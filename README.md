@@ -18,7 +18,7 @@ Prepare for certifications like **CompTIA Security+, CEH, ISC2** through practic
 
 ### Hardware/Virtualization:
 
-• Laptop/Desktop with minimum 8GB RAM and 100GB free disk space.
+• Laptop/Desktop with minimum 4GB RAM and 100GB free disk space.
 
 • Virtualization: VirtualBox 
 
