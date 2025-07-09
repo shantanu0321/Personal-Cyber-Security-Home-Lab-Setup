@@ -68,14 +68,28 @@ https://github.com/user-attachments/assets/7be9f7b1-53b3-4de5-8fda-0729ae45210e
 
 5. OSWAP Juice-shop: OWASP Juice Shop is a deliberately vulnerable web application designed for security training and learning. It's created by the Open Worldwide Application Security Project (OWASP) to help developers, security professionals, and students understand and practice identifying and mitigating common web application vulnerabilities.
 
-   - This is the setup for OSWAP juice-shop.
-1.    Install node.js
-2.    Run `git clone https://github.com/juice-shop/juice-shop.git --depth 1`. (or clone your own fork of the repository)
-3.    Go into the cloned folder with `cd juice-shop`
-4.    Run `npm install` (only has to be done before first start or when you change the source code)
-5.    Run `npm start`
-6.    Browse to " http://localhost:3000 "
+ - This is the setup for OSWAP juice-shop.
+
+   
+ 1.    Install node.js
+ 2.    Run `git clone https://github.com/juice-shop/juice-shop.git`.(or clone your own fork of the repository)
+ 3.    Go into the cloned folder with `cd juice-shop`
+ 4.    Run `npm install` (only has to be done before first start or when you change the source code)
+ 5.    Run `npm audit fix --force` (In case if npm install shows any error)
+ 6.    Run `npm i --package-lock-only` ( This command will make a package file for `npm audit fix --force`)
+ 7.    Run `npm audit fix --force` again to fix everything.
+ 8.    Run `npm start`
+ 9.    Browse to " http://localhost:3000 " in your Browser.
+ 10.   Now you can use it for pentesting using Burpsuite tool.
+
+  > Watch the video for better understanding.
 
 
+
+https://github.com/user-attachments/assets/44a909b0-25d2-4366-ab20-0566ec896a8a
+
+
+
+---
      
-- For defense: install Snort/Suricata/OSSEC as needed.
+
