@@ -27,7 +27,7 @@ Gain **hands-on experience** with penetration testing frameworks, network monito
 
 • Kali Linux: For security tools.
 
-• Metasploitable 2 & DVWA (Target Machine) : For service exploitation practice.
+• Metasploitable 2 (Target Machine) : For service exploitation practice.
 
 
 
@@ -44,8 +44,6 @@ Gain **hands-on experience** with penetration testing frameworks, network monito
 • Wireshark 
 
 • Burp Suite Community
-
-• OpenVAS
 
 • OWASP Juice Shop
 
