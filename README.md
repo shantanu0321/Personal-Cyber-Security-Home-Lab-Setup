@@ -30,8 +30,7 @@ Gain **hands-on experience** with penetration testing frameworks, network monito
 • Metasploitable 2 (Target Machine) : For service exploitation practice.
 
 
-
-### Network: Isolated Host-Only / Internal NAT network for safe testing.
+• Network: Isolated Host-Only / Internal NAT network for safe testing.
 
 ---
 
