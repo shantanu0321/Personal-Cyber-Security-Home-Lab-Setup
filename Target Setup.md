@@ -1,6 +1,6 @@
 # Vulnerable Target Setup
 
- 1. Download a vulnerable VM image " Metasploitable 2 ".
+1. Download a vulnerable VM image " Metasploitable 2 ".
 
 https://github.com/user-attachments/assets/5b392e14-f408-42a0-80e5-107cdcf93fd8
 
