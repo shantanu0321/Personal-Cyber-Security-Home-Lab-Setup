@@ -18,7 +18,7 @@ This guide will help you set up the vulnerable VM **Metasploitable 2** in Virtua
 
 ## 1. Download Metasploitable 2
 
-- Download the vulnerable VM image "Metasploitable 2" from the official source:
+- Download the vulnerable VM image "Metasploitable 2" from the official source: https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
 
 https://github.com/user-attachments/assets/5b392e14-f408-42a0-80e5-107cdcf93fd8
 
