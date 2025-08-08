@@ -23,7 +23,9 @@ Gain **hands-on experience** with penetration testing frameworks, network monito
 
 • Networking: Host-Only Network / Internal Network for VM isolation.
 
-### Virtual Machines:
+---
+
+### 🖥️ Virtual Machines:
 
 • Kali Linux: For security tools.
 
