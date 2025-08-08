@@ -25,18 +25,17 @@ Gain **hands-on experience** with penetration testing frameworks, network monito
 
 ---
 
-### 🖥️ Virtual Machines:
+## 🖥️ Virtual Machines:
 
 • Kali Linux: For security tools.
 
 • Metasploitable 2 (Target Machine) : For service exploitation practice.
 
-
 • Network: Isolated Host-Only / Internal NAT network for safe testing.
 
 ---
 
-### 🛠️ Tools Installed
+## 🛠️ Tools Installed
 
 • Nmap
 
