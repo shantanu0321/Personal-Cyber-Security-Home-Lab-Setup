@@ -18,11 +18,6 @@ https://github.com/user-attachments/assets/85b40f13-d1fb-40e6-bd40-792d9ca08b1d
 
 1. Nmap: Network exploration tool and security / port scanner. Nmap (“Network Mapper”) is an open source tool for network exploration and security auditing.
   
-  > SYNOPSIS
-
-       nmap  [Scan Type...]  [Options]   {target specification}
-  
-        # nmap -A -T4 192.168.XX.X
   
   - To get all the Scan types of Nmap, run the command `man nmap` or `nmap --help` in the terminal.
 
