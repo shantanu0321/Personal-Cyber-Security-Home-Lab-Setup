@@ -55,6 +55,10 @@ environments (labs, CTFs, or systems you own/are authorized to test).
 
 • OWASP Juice Shop
 
+- Hydra
+
+- John The Ripper
+  
 ---
 
 
