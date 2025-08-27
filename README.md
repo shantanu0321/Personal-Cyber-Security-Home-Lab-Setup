@@ -54,10 +54,10 @@ environments (labs, CTFs, or systems you own/are authorized to test).
 • Burp Suite Community
 
 • OWASP Juice Shop
+ 
+• Hydra
 
-- Hydra
-
-- John The Ripper
+• John The Ripper
   
 ---
 
