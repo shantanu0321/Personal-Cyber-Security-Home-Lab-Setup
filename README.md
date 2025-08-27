@@ -37,7 +37,7 @@ environments (labs, CTFs, or systems you own/are authorized to test).
 
 • Kali Linux: For security tools.
 
-• Metasploitable 2 (Target Machine) : For service exploitation practice.
+• Metasploitable 2 (Victim Machine) : For service exploitation practice.
 
 • Network: Isolated Host-Only / Internal NAT network for safe testing.
 
