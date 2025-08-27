@@ -1,0 +1,56 @@
+#🔎 Nmap – Network Mapper
+
+## Description
+
+Nmap (Network Mapper) is an open-source tool used for network discovery, security auditing, and vulnerability scanning.
+It helps security professionals and system administrators identify active hosts, open ports, services, operating systems, 
+and potential security risks in a network.
+
+---
+
+## ✅ Key Features:
+
+- Host discovery (find live systems on a network)
+
+- Port scanning (detect open, closed, and filtered ports)
+
+- Service and version detection (identify running applications)
+
+- OS detection and fingerprinting.
+
+---
+
+## 🛠 Example Usage:
+ 
+### Scan a single host
+**`nmap 192.168.1.1`**
+
+### Scan a range of IPs
+**`nmap 192.168.1.1-50`**
+
+### Service and version detection
+**`nmap -sV 192.168.1.1`**
+
+# Aggressive scan with OS detection
+**`nmap -A 192.168.1.1`**
+
+To know all the command of the nmap you can type command `man nmap` it will help you to know every command.
+
+
+---
+
+## Namp Use
+
+- Before starting the Nmap we must know the IP Address of our Target Machine.
+
+- Type the command `ip a` in the metasploitable 2 machine and it will show you the IP address of the machine.
+
+- Start Kali Linux and open terminal.
+
+- Type command **` nmap 192.168.10.18 (target IP Addres) `**.
+
+- It will show you all the open ports of the Target machine.
+
+- I have used my friend's website to scan the ports of his website with his permission.
+
+ 
