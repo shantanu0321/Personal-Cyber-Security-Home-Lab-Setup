@@ -25,25 +25,33 @@ authentication mechanisms.
 ## 🛠 Example Usage
 
 ### Brute-force FTP login
+
 **`hydra -l admin -P passwords.txt ftp://192.168.1.10`**
 
-### Brute-force SSH login
-**`hydra -l root -P rockyou.txt ssh://192.168.1.10`**
-
-### Brute-force HTTP login form
-**`hydra -l admin -P passlist.txt 192.168.1.30 http-post-form "/login.php:user=^USER^&pass=^PASS^:F=incorrect"`**
-
----
 
 - **`-l admin`** → sets the login/username to admin (single user)
   
 - **`-P passwords.txt`** → tells Hydra to use a password wordlist from passwords.txt
 
-- **`ftp://192.168.1.10`** → target protocol is FTP, and the target IP is 192.168.1.10.
+- **`ftp://192.168.1.10`** → target protocol is FTP, and the target IP is 192.168.1.10
+
+### Brute-force SSH login
+
+
+
+**`hydra -l root -P rockyou.txt ssh://192.168.1.10`**
+
+
+- **`-l admin`** → sets the login/username to admin (single user)
+  
+- **`-P passwords.txt`** → tells Hydra to use a password wordlist from passwords.txt
 
 - **`ssh://192.168.1.20`** → target is SSH service at IP 192.168.1.20
 
----
+### Brute-force HTTP login form
+
+**`hydra -l admin -P passlist.txt 192.168.1.30 http-post-form "/login.php:user=^USER^&pass=^PASS^:F=incorrect"`**
+
 
 - http-post-form → tells Hydra that we are attacking an HTTP POST login form.
 
