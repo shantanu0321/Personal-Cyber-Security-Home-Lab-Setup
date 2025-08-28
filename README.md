@@ -15,8 +15,7 @@ Gain **hands-on experience** with penetration testing frameworks, network monito
 
 ## ⚠️ Disclaimer
 
-This project is for educational purposes only. The tools and methods demonstrated here should only be used in legal 
-environments (labs, CTFs, or systems you own/are authorized to test).
+This project is for educational and learning basic of all the tools only. The tools and methods demonstrated here should only be used in legal environment (labs, CTFs, or systems you own/are authorized to test).
 
 
 ---
